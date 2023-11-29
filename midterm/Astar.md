@@ -54,9 +54,9 @@ F cost = G cost + H cost
 
 ![Alt text](image-7.png)
 
-![Alt text](image-8.png)
-
 最後只要從其最終節點去反推，便能得到路徑。
+
+![Alt text](image-8.png)
 
 ## 虛擬碼
 
